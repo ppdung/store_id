@@ -1,0 +1,25 @@
+{
+	"LIST_A": [
+		{"allowed_device_id" : "ceca74f8f2450179", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "132f7e0eba5a1215", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "c5d4eabfc33a835c", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "b39fe9d2307cbcfa", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "5ee98103-ec7f-47de-9", 	"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "46ee6a92a6e1243b", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "46ee6a92a6e1243b1", 	"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "6b96d5298a0ee761", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "5f46c7c4-f63d-4f74-b", 	"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "8399cd4f60cdc76e", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "05d909647a6dc31b", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "f20913b26af818c1", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "59eb8f0b7975f13c", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "3e33e10c22943094", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "77ac4a0579d9f537", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "8a02ac873b45f5ae", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "ca90486c6f4d23f8", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "1034f6cdf5461ecd", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "50970161f6b24505", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "1c6636a9ade51513", 		"end_date" : "2024-11-31"},
+		{"allowed_device_id" : "1baaf14b0e8e5c7a", 		"end_date" : "2024-11-31"}
+	]
+}
