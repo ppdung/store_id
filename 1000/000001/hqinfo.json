@@ -1,0 +1,20 @@
+{
+    "MSG": "sucess",
+    "file_info": [
+        {
+            "REGI_DTTM": "20241020021704",
+            "FILE_NM": "img_ad1.jpg",
+            "FILE_TYPE": "1",
+            "FILE_PATH": "https://ppdung.github.io/store_id/1000/000001/hq/"
+        },
+        {
+            "REGI_DTTM": "20241020021715",
+            "FILE_NM": "img_ad2.jpg",
+            "FILE_TYPE": "1",
+            "FILE_PATH": "https://ppdung.github.io/store_id/1000/000001/hq/"
+        }
+    ],
+    "MSG_CD": "0000",
+    "STR_CD": "000001",
+    "SITE_CD": "1000"
+}
